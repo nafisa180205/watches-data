@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Apple Watch Series 9", "price": 399 },
+  { "id": 2, "name": "Samsung Galaxy Watch 6", "price": 349 },
+  { "id": 3, "name": "Garmin Venu 3", "price": 499 },
+  { "id": 4, "name": "Fitbit Sense 2", "price": 299 },
+  { "id": 5, "name": "Amazfit GTR 4", "price": 199 },
+  { "id": 6, "name": "Huawei Watch GT 3", "price": 229 },
+  { "id": 7, "name": "TicWatch Pro 3", "price": 289 },
+  { "id": 8, "name": "Fossil Gen 6", "price": 319 },
+  { "id": 9, "name": "Garmin Fenix 7", "price": 699 },
+  { "id": 10, "name": "Suunto 9 Peak", "price": 569 },
+  { "id": 11, "name": "Withings ScanWatch", "price": 279 },
+  { "id": 12, "name": "Polar Vantage V2", "price": 499 },
+  { "id": 13, "name": "Michael Kors Access", "price": 295 },
+  { "id": 14, "name": "Skagen Falster Gen 6", "price": 299 },
+  { "id": 15, "name": "Diesel On Axial", "price": 350 },
+  { "id": 16, "name": "Coros Pace 2", "price": 199 },
+  { "id": 17, "name": "Honor Watch GS 3", "price": 229 },
+  { "id": 18, "name": "Mobvoi TicWatch E3", "price": 199 },
+  { "id": 19, "name": "Amazfit Bip U Pro", "price": 69 },
+  { "id": 20, "name": "Garmin Instinct 2", "price": 349 }
+]
